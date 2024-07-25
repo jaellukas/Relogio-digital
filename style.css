@@ -1,6 +1,7 @@
 body{
   background-color:rgb(70, 142, 236);
   font: normal 15px arial;
+  display: flex;
 }
 header{
   color: white;
